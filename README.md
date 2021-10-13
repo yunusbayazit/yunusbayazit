@@ -7,6 +7,6 @@
 </h5>
 <br>
 
-- 🔭 I’m currently working on TURKNET
+- 🔭 I’m currently working on Obilet
 - 📫 How to reach me: yunusbayazit@outlook.com
 

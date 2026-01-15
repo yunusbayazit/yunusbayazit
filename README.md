@@ -7,6 +7,5 @@
 </h5>
 <br>
 
-- 🔭 I’m currently working on Banayeni
 - 📫 How to reach me: yunusbayazit@outlook.com
 
